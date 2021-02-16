@@ -1,0 +1,12 @@
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\bin\Debug\Games_CRUD.exe.config
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\bin\Debug\Games_CRUD.exe
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\bin\Debug\Games_CRUD.pdb
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\bin\Debug\Games_CRUD.xml
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\obj\Debug\Games_CRUD.vbprojAssemblyReference.cache
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\obj\Debug\Games_CRUD.Form1.resources
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\obj\Debug\Games_CRUD.Resources.resources
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\obj\Debug\Games_CRUD.vbproj.GenerateResource.cache
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\obj\Debug\Games_CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\obj\Debug\Games_CRUD.exe
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\obj\Debug\Games_CRUD.xml
+C:\Users\nnult\Desktop\VisualBasicApplication\Games_CRUD\Games_CRUD\obj\Debug\Games_CRUD.pdb
